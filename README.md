@@ -13,3 +13,5 @@ How to complete functions
   - Tap the repo you want to edit issues in and click the edit button on the specific issue.
 - User can open or close an existing GitHub issue
   - Tap the repo you want to change issue state in and click the state button on the issue.
+
+An APK to install is available at: https://drive.google.com/open?id=0B9YOMeK_ODb-R1ZYcHhWcXAwRWc
